@@ -2,16 +2,11 @@
 
 ![StormShieldAI Banner](https://via.placeholder.com/800x200/2563eb/ffffff?text=StormShieldAI+Emergency+Response+System)
 
-**🏆 Winner Project - UN Tech Over Hackathon 2025**
 
-An advanced AI-powered emergency response system designed for disaster preparedness and crisis management in Nicaragua. Built with cutting-edge technology to save lives during hurricanes, floods, and natural disasters.
 
-## 🚀 **Live Demo**
+#
 
-### 🌐 **Try the Live Application**
-- **Streamlit Cloud**: [https://stormshieldai.streamlit.app](https://stormshieldai.streamlit.app)
-- **Demo Video**: [Watch Full Demo](https://youtu.be/your-video-id)
-- **GitHub Repository**: [Source Code](https://github.com/yourusername/StormShieldAI)
+
 
 ### 📱 **Quick Demo Features**
 - 🤖 **AI Emergency Assistant** - Multi-language emergency help
