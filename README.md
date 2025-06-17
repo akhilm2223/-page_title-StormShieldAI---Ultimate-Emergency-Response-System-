@@ -172,12 +172,6 @@ Navigate to `http://localhost:8501`
 
 ---
 
-## 🏆 **Awards & Recognition**
-
-- **🥇 UN Tech Over Hackathon 2025** - Winner
-- **🌟 Best Emergency Response Solution**
-- **🚀 Most Innovative AI Integration**
-
 ---
 
 ## 📈 **Project Statistics**
