@@ -1,6 +1,5 @@
 # 🌪️ StormShieldAI - Ultimate Emergency Response System
 
-![StormShieldAI Banner](https://via.placeholder.com/800x200/2563eb/ffffff?text=StormShieldAI+Emergency+Response+System)
 
 
 
